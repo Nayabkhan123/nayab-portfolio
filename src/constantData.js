@@ -27,7 +27,7 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 
 // Experience Section Logo's
 import gdgLogo from './assets/company_logo/gdg.png';
-import LahmLogo from './assets/company_logo/lahm.png';
+import LahmLogo from './assets/company_logo/Lahm.png';
 
 // Education Section Logo's
 import jamiaLogo from './assets/education_logo/jamiaLogo.png';
