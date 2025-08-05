@@ -37,7 +37,7 @@ import highLogo from './assets/education_logo/highLogo.png';
 // Project Section Logo's
 import primeMart from './assets/Project/primeMart.png';
 import echoChat from './assets/Project/echoChat.png';
-import DocMentor from './assets/Project/DocMentor.png';
+import DocMentor from './assets/Project/docMentor.png';
 import healthWiser from './assets/Project/healthWiser.png';
 import alumni from './assets/Project/alumni.png';
 import passwordGenerator from './assets/Project/passwordGenerator.png';
